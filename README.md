@@ -14,7 +14,7 @@ We created a table of all the titles and the amount of people of retiring age wi
 - there is a smaller number of Technique Leaders and Assistant Engineers who will be retiring along with 2 Managers
 
 We've also supplied a list of the current employees that are eligible for a Mentorship role which you can find in the 'Mentorship Eligibility' link above.
-- This list shows the all the details of their current employment
+- This list shows the all the details of their current employment currently that list isn't very large compared to the amount of people retiring
 - You can also filter this list for the titles you feel are required most for the Mentorship program
 
 ## Summary
